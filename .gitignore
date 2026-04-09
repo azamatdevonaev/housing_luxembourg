@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 lux_housing_lookup_bot/lux-housing-16e13a90a968.json
+=======
+# Ignore everything
+*
+
+# Except this file
+!.gitignore
+
+# Except telegram_posts
+!telegram_posts/
+!telegram_posts/**
+
+# Ignore system files
+.DS_Store
+>>>>>>> e7e7df56ce2e998a776dffd759f186734da2224b
