@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Except this file
+!.gitignore
+
+# Except telegram_posts
+!telegram_posts/
+!telegram_posts/**
+
+# Ignore system files
+.DS_Store
